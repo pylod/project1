@@ -1,0 +1,23 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "lalala",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pylod/project1.git"
+  },
+  "author": "Mikle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pylod/project1/issues"
+  },
+  "homepage": "https://github.com/pylod/project1#readme",
+  "devDependencies": {
+    "eslint": "^6.5.0",
+    "eslint-plugin-react": "^7.14.3"
+  }
+}
